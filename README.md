@@ -3,7 +3,6 @@ Video 2014
 
 [Presentation](http://samdutton.github.io/video2014/index.html)
 
-
 * &lt;video&gt; and &lt;audio&gt; update
 * Transcripts, captions and the track element: deep linking and deep search
 * State of the codecs
